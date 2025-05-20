@@ -1,0 +1,14 @@
+{
+    "extensionName": {
+        "message": "Keyboard Masher"
+    },
+    "extensionDescription": {
+        "message": "Express your anger, without destroying your keyboard"
+    },
+    "buttonName": {
+        "message": "Mash Keyboard"
+    },
+    "statusOverlay": {
+        "message": "Mashing keyboard. Click or press any key to stop."
+    }
+}

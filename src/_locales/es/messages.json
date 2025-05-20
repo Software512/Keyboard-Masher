@@ -1,0 +1,14 @@
+{
+    "extensionName": {
+        "message": "Aplasta de el teclado"
+    },
+    "extensionDescription": {
+        "message": "Expresa tu enfado sin destruir el teclado"
+    },
+    "buttonName": {
+        "message": "Aplasta el teclado"
+    },
+    "statusOverlay": {
+        "message": "Aplasta el teclado. Haz clic o pulsa cualquier tecla para detenerlo."
+    }
+}
